@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="degree_celsious">°C</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="cloud_cover">Cloud Cover</string>
+    <string name="cd">cd</string>
+    <string name="updated_at">Updated at:</string>
+    <string name="weather_app">WEATHER APP</string>
 </resources>
