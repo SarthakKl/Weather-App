@@ -37,8 +37,7 @@ class SplashScreen : AppCompatActivity() {
                 mFusedLocation.lastLocation.addOnCompleteListener { task ->
                     val location: Location? = task.result
 
-                    /*if(location==null)
-                        //TODO we have to get the last location using LocationRequest*/
+                    //if(location==null)
 
                     val geocoder = Geocoder(this, Locale.getDefault())
                     val addresses: List<Address> =
