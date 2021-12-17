@@ -9,6 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="transparent">#00000000</color>
 
-    <color name="startColor">#FF5303</color>
-    <color name="endColor">#A92900</color>
+    <color name="startColor">#753a88</color>
+    <color name="endColor">#cc2b5e</color>#753a88
 </resources>
